@@ -4,11 +4,10 @@
 This app is my own take on a 'Sticky Note' application. 
 
 ## Technologies
-- **React.js**
+- **Express.js**
 - **CSS**
 - **JavaScript**
 - **Node.js**
-- **React.js**
 - **RestfulAPI**
 
 ## Links
