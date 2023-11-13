@@ -10,6 +10,8 @@ This app is my own take on a 'Sticky Note' application.
 - **Node.js**
 - **RestfulAPI**
 
+
+
 ## Links
   - **[My Portfolio](https://trane7.github.io/PortfolioFinal/)**
   - **[Connect on LinkedIn](https://www.linkedin.com/in/demetre-growette-0776a7b7/)**
