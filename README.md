@@ -10,7 +10,8 @@ This app is my own take on a 'Sticky Note' application.
 - **Node.js**
 - **RestfulAPI**
 
-
+## Screenshot
+![Alt text](image.png)
 
 ## Links
   - **[My Portfolio](https://trane7.github.io/PortfolioFinal/)**
